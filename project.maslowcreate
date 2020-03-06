@@ -12,9 +12,26 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 0.9853587115666179,
-                    "y": 0.5,
+                    "x": 0.6961932650073207,
+                    "y": 0.46,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 0.7342606149341141,
+                    "y": 0.544,
+                    "uniqueID": 142977,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
                 }
             ],
             "allConnectors": [],
